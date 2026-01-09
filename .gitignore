@@ -1,0 +1,48 @@
+# Node modules
+**/node_modules
+
+# Build outputs
+/dist
+**/dist
+/build
+**/build
+
+# Vite cache
+.node_modules/.vite
+.vite
+
+# Environment files
+.env
+.env.*
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs
+logs/*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Misc caches
+.cache
+.next
+.out
+.eslintcache
+
+# Optional: ignore local frontend build artifacts if created elsewhere
+media/frontend/dist

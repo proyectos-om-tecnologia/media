@@ -40,3 +40,5 @@ Notas sobre seguridad y recursos externos:
 
 Git:
 - Hay `.gitignore` en la raíz y en `media/frontend` y `media/backend` para excluir `node_modules`, builds y archivos sensibles.
+
+test!
